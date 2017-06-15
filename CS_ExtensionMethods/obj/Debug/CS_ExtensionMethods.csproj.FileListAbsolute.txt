@@ -1,0 +1,6 @@
+C:\_C#Tests\CS_ExtensionMethods\bin\Debug\CS_ExtensionMethods.exe.config
+C:\_C#Tests\CS_ExtensionMethods\bin\Debug\CS_ExtensionMethods.exe
+C:\_C#Tests\CS_ExtensionMethods\bin\Debug\CS_ExtensionMethods.pdb
+C:\_C#Tests\CS_ExtensionMethods\obj\Debug\CS_ExtensionMethods.csprojResolveAssemblyReference.cache
+C:\_C#Tests\CS_ExtensionMethods\obj\Debug\CS_ExtensionMethods.exe
+C:\_C#Tests\CS_ExtensionMethods\obj\Debug\CS_ExtensionMethods.pdb

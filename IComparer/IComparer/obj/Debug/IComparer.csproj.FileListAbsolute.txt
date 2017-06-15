@@ -1,0 +1,6 @@
+C:\VS_Test\_C#Tests\IComparer\IComparer\bin\Debug\IComparer.exe.config
+C:\VS_Test\_C#Tests\IComparer\IComparer\bin\Debug\IComparer.exe
+C:\VS_Test\_C#Tests\IComparer\IComparer\bin\Debug\IComparer.pdb
+C:\VS_Test\_C#Tests\IComparer\IComparer\obj\Debug\IComparer.csprojResolveAssemblyReference.cache
+C:\VS_Test\_C#Tests\IComparer\IComparer\obj\Debug\IComparer.exe
+C:\VS_Test\_C#Tests\IComparer\IComparer\obj\Debug\IComparer.pdb

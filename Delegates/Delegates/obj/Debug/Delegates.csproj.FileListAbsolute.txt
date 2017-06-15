@@ -1,0 +1,12 @@
+C:\_C#Tests\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\_C#Tests\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\_C#Tests\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\_C#Tests\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+C:\_C#Tests\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\_C#Tests\Delegates\Delegates\obj\Debug\Delegates.pdb
+C:\VS_Test\_C#_Tests\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\VS_Test\_C#_Tests\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\VS_Test\_C#_Tests\Delegates\Delegates\obj\Debug\Delegates.pdb
+C:\VS_Test\_C#_Tests\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\VS_Test\_C#_Tests\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\VS_Test\_C#_Tests\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache

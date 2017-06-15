@@ -1,0 +1,6 @@
+C:\VS_Test\_C#Tests\GenericConstraints\GenericConstraints\bin\Debug\GenericConstraints.exe.config
+C:\VS_Test\_C#Tests\GenericConstraints\GenericConstraints\bin\Debug\GenericConstraints.exe
+C:\VS_Test\_C#Tests\GenericConstraints\GenericConstraints\bin\Debug\GenericConstraints.pdb
+C:\VS_Test\_C#Tests\GenericConstraints\GenericConstraints\obj\Debug\GenericConstraints.csprojResolveAssemblyReference.cache
+C:\VS_Test\_C#Tests\GenericConstraints\GenericConstraints\obj\Debug\GenericConstraints.exe
+C:\VS_Test\_C#Tests\GenericConstraints\GenericConstraints\obj\Debug\GenericConstraints.pdb

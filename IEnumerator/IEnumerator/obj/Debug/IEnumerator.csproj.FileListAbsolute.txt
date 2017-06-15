@@ -1,0 +1,6 @@
+C:\_C#Tests\IEnumerator\IEnumerator\bin\Debug\IEnumerator.exe.config
+C:\_C#Tests\IEnumerator\IEnumerator\bin\Debug\IEnumerator.exe
+C:\_C#Tests\IEnumerator\IEnumerator\bin\Debug\IEnumerator.pdb
+C:\_C#Tests\IEnumerator\IEnumerator\obj\Debug\IEnumerator.csprojResolveAssemblyReference.cache
+C:\_C#Tests\IEnumerator\IEnumerator\obj\Debug\IEnumerator.exe
+C:\_C#Tests\IEnumerator\IEnumerator\obj\Debug\IEnumerator.pdb

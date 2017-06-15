@@ -1,0 +1,9 @@
+C:\VS_Test\References\References\bin\Debug\References.exe.config
+C:\VS_Test\References\References\bin\Debug\References.exe
+C:\VS_Test\References\References\bin\Debug\References.pdb
+C:\VS_Test\References\References\obj\Debug\References.csprojResolveAssemblyReference.cache
+C:\VS_Test\References\References\obj\Debug\References.exe
+C:\VS_Test\References\References\obj\Debug\References.pdb
+C:\VS_Test\_C#_Tests\References\References\bin\Debug\References.exe.config
+C:\VS_Test\_C#_Tests\References\References\obj\Debug\References.exe
+C:\VS_Test\_C#_Tests\References\References\obj\Debug\References.pdb

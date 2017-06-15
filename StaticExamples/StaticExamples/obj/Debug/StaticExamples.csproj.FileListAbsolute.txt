@@ -1,0 +1,6 @@
+C:\_C#Tests\StaticExamples\StaticExamples\bin\Debug\StaticExamples.exe.config
+C:\_C#Tests\StaticExamples\StaticExamples\bin\Debug\StaticExamples.exe
+C:\_C#Tests\StaticExamples\StaticExamples\bin\Debug\StaticExamples.pdb
+C:\_C#Tests\StaticExamples\StaticExamples\obj\Debug\StaticExamples.csprojResolveAssemblyReference.cache
+C:\_C#Tests\StaticExamples\StaticExamples\obj\Debug\StaticExamples.exe
+C:\_C#Tests\StaticExamples\StaticExamples\obj\Debug\StaticExamples.pdb

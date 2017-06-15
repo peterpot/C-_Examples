@@ -1,0 +1,5 @@
+C:\_C#Tests\ICloneable\ICloneable\bin\Debug\ICloneable.exe.config
+C:\_C#Tests\ICloneable\ICloneable\bin\Debug\ICloneable.exe
+C:\_C#Tests\ICloneable\ICloneable\bin\Debug\ICloneable.pdb
+C:\_C#Tests\ICloneable\ICloneable\obj\Debug\ICloneable.exe
+C:\_C#Tests\ICloneable\ICloneable\obj\Debug\ICloneable.pdb

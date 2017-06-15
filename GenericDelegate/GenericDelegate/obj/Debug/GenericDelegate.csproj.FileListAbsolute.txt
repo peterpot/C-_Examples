@@ -1,0 +1,6 @@
+C:\_C#Tests\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe.config
+C:\_C#Tests\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe
+C:\_C#Tests\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.pdb
+C:\_C#Tests\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.csprojResolveAssemblyReference.cache
+C:\_C#Tests\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.exe
+C:\_C#Tests\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.pdb

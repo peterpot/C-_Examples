@@ -1,0 +1,9 @@
+C:\VS_Test\_C#Tests\Liskov\Liskov\bin\Debug\Liskov.exe.config
+C:\VS_Test\_C#Tests\Liskov\Liskov\obj\Debug\Liskov.csprojResolveAssemblyReference.cache
+C:\VS_Test\_C#Tests\Liskov\Liskov\bin\Debug\Liskov.exe
+C:\VS_Test\_C#Tests\Liskov\Liskov\bin\Debug\Liskov.pdb
+C:\VS_Test\_C#Tests\Liskov\Liskov\obj\Debug\Liskov.exe
+C:\VS_Test\_C#Tests\Liskov\Liskov\obj\Debug\Liskov.pdb
+C:\VS_Test\_C#_Tests\Liskov\Liskov\bin\Debug\Liskov.exe.config
+C:\VS_Test\_C#_Tests\Liskov\Liskov\obj\Debug\Liskov.exe
+C:\VS_Test\_C#_Tests\Liskov\Liskov\obj\Debug\Liskov.pdb

@@ -1,0 +1,6 @@
+C:\_C#Tests\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+C:\_C#Tests\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+C:\_C#Tests\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\_C#Tests\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csprojResolveAssemblyReference.cache
+C:\_C#Tests\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+C:\_C#Tests\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb

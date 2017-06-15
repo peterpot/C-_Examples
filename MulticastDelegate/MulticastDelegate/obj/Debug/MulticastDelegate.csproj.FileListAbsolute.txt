@@ -1,0 +1,6 @@
+C:\_C#Tests\MulticastDelegate\MulticastDelegate\bin\Debug\MulticastDelegate.exe.config
+C:\_C#Tests\MulticastDelegate\MulticastDelegate\bin\Debug\MulticastDelegate.exe
+C:\_C#Tests\MulticastDelegate\MulticastDelegate\bin\Debug\MulticastDelegate.pdb
+C:\_C#Tests\MulticastDelegate\MulticastDelegate\obj\Debug\MulticastDelegate.csprojResolveAssemblyReference.cache
+C:\_C#Tests\MulticastDelegate\MulticastDelegate\obj\Debug\MulticastDelegate.exe
+C:\_C#Tests\MulticastDelegate\MulticastDelegate\obj\Debug\MulticastDelegate.pdb

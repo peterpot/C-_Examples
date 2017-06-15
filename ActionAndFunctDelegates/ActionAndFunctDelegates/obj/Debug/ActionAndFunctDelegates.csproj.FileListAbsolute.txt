@@ -1,0 +1,6 @@
+C:\_C#Tests\ActionAndFunctDelegates\ActionAndFunctDelegates\bin\Debug\ActionAndFunctDelegates.exe.config
+C:\_C#Tests\ActionAndFunctDelegates\ActionAndFunctDelegates\bin\Debug\ActionAndFunctDelegates.exe
+C:\_C#Tests\ActionAndFunctDelegates\ActionAndFunctDelegates\bin\Debug\ActionAndFunctDelegates.pdb
+C:\_C#Tests\ActionAndFunctDelegates\ActionAndFunctDelegates\obj\Debug\ActionAndFunctDelegates.csprojResolveAssemblyReference.cache
+C:\_C#Tests\ActionAndFunctDelegates\ActionAndFunctDelegates\obj\Debug\ActionAndFunctDelegates.exe
+C:\_C#Tests\ActionAndFunctDelegates\ActionAndFunctDelegates\obj\Debug\ActionAndFunctDelegates.pdb

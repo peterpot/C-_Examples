@@ -1,0 +1,12 @@
+C:\_C#Tests\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe.config
+C:\_C#Tests\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe
+C:\_C#Tests\Polymorphism\Polymorphism\bin\Debug\Polymorphism.pdb
+C:\_C#Tests\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csprojResolveAssemblyReference.cache
+C:\_C#Tests\Polymorphism\Polymorphism\obj\Debug\Polymorphism.exe
+C:\_C#Tests\Polymorphism\Polymorphism\obj\Debug\Polymorphism.pdb
+C:\VS_Test\_C#Tests\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe.config
+C:\VS_Test\_C#Tests\Polymorphism\Polymorphism\obj\Debug\Polymorphism.exe
+C:\VS_Test\_C#Tests\Polymorphism\Polymorphism\obj\Debug\Polymorphism.pdb
+C:\VS_Test\_C#Tests\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe
+C:\VS_Test\_C#Tests\Polymorphism\Polymorphism\bin\Debug\Polymorphism.pdb
+C:\VS_Test\_C#Tests\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\_C#Tests\Generic.Collection\Generic.Collection\bin\Debug\Generic.Collection.exe.config
+C:\_C#Tests\Generic.Collection\Generic.Collection\bin\Debug\Generic.Collection.exe
+C:\_C#Tests\Generic.Collection\Generic.Collection\bin\Debug\Generic.Collection.pdb
+C:\_C#Tests\Generic.Collection\Generic.Collection\obj\Debug\Generic.Collection.csprojResolveAssemblyReference.cache
+C:\_C#Tests\Generic.Collection\Generic.Collection\obj\Debug\Generic.Collection.exe
+C:\_C#Tests\Generic.Collection\Generic.Collection\obj\Debug\Generic.Collection.pdb

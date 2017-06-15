@@ -1,0 +1,6 @@
+C:\VS_Test\_C#_Tests\Object_Generic\Object_Generic\bin\Debug\Object_Generic.exe.config
+C:\VS_Test\_C#_Tests\Object_Generic\Object_Generic\bin\Debug\Object_Generic.exe
+C:\VS_Test\_C#_Tests\Object_Generic\Object_Generic\bin\Debug\Object_Generic.pdb
+C:\VS_Test\_C#_Tests\Object_Generic\Object_Generic\obj\Debug\Object_Generic.csprojResolveAssemblyReference.cache
+C:\VS_Test\_C#_Tests\Object_Generic\Object_Generic\obj\Debug\Object_Generic.exe
+C:\VS_Test\_C#_Tests\Object_Generic\Object_Generic\obj\Debug\Object_Generic.pdb

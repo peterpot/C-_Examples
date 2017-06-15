@@ -1,0 +1,12 @@
+C:\VS_Test\_C#Tests\Accessibility\Accessibility\bin\Debug\Accessibility.exe.config
+C:\VS_Test\_C#Tests\Accessibility\Accessibility\bin\Debug\Accessibility.exe
+C:\VS_Test\_C#Tests\Accessibility\Accessibility\bin\Debug\Accessibility.pdb
+C:\VS_Test\_C#Tests\Accessibility\Accessibility\obj\Debug\Accessibility.csprojResolveAssemblyReference.cache
+C:\VS_Test\_C#Tests\Accessibility\Accessibility\obj\Debug\Accessibility.exe
+C:\VS_Test\_C#Tests\Accessibility\Accessibility\obj\Debug\Accessibility.pdb
+C:\VS_Test\_C#_Tests\Accessibility\Accessibility\bin\Debug\Accessibility.exe.config
+C:\VS_Test\_C#_Tests\Accessibility\Accessibility\obj\Debug\Accessibility.exe
+C:\VS_Test\_C#_Tests\Accessibility\Accessibility\obj\Debug\Accessibility.pdb
+C:\VS_Test\_C#_Tests\Accessibility\Accessibility\bin\Debug\Accessibility.exe
+C:\VS_Test\_C#_Tests\Accessibility\Accessibility\bin\Debug\Accessibility.pdb
+C:\VS_Test\_C#_Tests\Accessibility\Accessibility\obj\Debug\Accessibility.csprojResolveAssemblyReference.cache

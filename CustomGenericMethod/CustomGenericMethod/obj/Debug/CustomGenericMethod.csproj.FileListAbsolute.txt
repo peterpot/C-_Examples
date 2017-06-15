@@ -1,0 +1,5 @@
+C:\_C#Tests\CustomGenericMethod\CustomGenericMethod\bin\Debug\CustomGenericMethod.exe.config
+C:\_C#Tests\CustomGenericMethod\CustomGenericMethod\bin\Debug\CustomGenericMethod.exe
+C:\_C#Tests\CustomGenericMethod\CustomGenericMethod\bin\Debug\CustomGenericMethod.pdb
+C:\_C#Tests\CustomGenericMethod\CustomGenericMethod\obj\Debug\CustomGenericMethod.exe
+C:\_C#Tests\CustomGenericMethod\CustomGenericMethod\obj\Debug\CustomGenericMethod.pdb

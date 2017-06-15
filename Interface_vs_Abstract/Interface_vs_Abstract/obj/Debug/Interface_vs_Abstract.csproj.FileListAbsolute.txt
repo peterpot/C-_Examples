@@ -1,0 +1,6 @@
+C:\VS_Test\_C#Tests\Interface_vs_Abstract\Interface_vs_Abstract\bin\Debug\Interface_vs_Abstract.exe.config
+C:\VS_Test\_C#Tests\Interface_vs_Abstract\Interface_vs_Abstract\bin\Debug\Interface_vs_Abstract.exe
+C:\VS_Test\_C#Tests\Interface_vs_Abstract\Interface_vs_Abstract\bin\Debug\Interface_vs_Abstract.pdb
+C:\VS_Test\_C#Tests\Interface_vs_Abstract\Interface_vs_Abstract\obj\Debug\Interface_vs_Abstract.csprojResolveAssemblyReference.cache
+C:\VS_Test\_C#Tests\Interface_vs_Abstract\Interface_vs_Abstract\obj\Debug\Interface_vs_Abstract.exe
+C:\VS_Test\_C#Tests\Interface_vs_Abstract\Interface_vs_Abstract\obj\Debug\Interface_vs_Abstract.pdb

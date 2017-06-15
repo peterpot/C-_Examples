@@ -1,0 +1,5 @@
+C:\VS_Test\_C#Tests\NullTypes\NullTypes\bin\Debug\NullTypes.exe.config
+C:\VS_Test\_C#Tests\NullTypes\NullTypes\bin\Debug\NullTypes.exe
+C:\VS_Test\_C#Tests\NullTypes\NullTypes\bin\Debug\NullTypes.pdb
+C:\VS_Test\_C#Tests\NullTypes\NullTypes\obj\Debug\NullTypes.exe
+C:\VS_Test\_C#Tests\NullTypes\NullTypes\obj\Debug\NullTypes.pdb

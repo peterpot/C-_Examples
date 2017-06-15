@@ -1,0 +1,6 @@
+C:\VS_Test\Decimals\Decimals\bin\Debug\Decimals.exe.config
+C:\VS_Test\Decimals\Decimals\bin\Debug\Decimals.exe
+C:\VS_Test\Decimals\Decimals\bin\Debug\Decimals.pdb
+C:\VS_Test\Decimals\Decimals\obj\Debug\Decimals.exe
+C:\VS_Test\Decimals\Decimals\obj\Debug\Decimals.pdb
+C:\VS_Test\Decimals\Decimals\obj\Debug\Decimals.csprojResolveAssemblyReference.cache
